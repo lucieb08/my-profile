@@ -2,7 +2,7 @@
 body{
   background-color: white;
   font-size: 16px;
-  font-family: 'American Typewriter', sans-serif;
+  font-family: 'Calibri', sans-serif;
   line-height: 1;
 }
 
@@ -11,7 +11,7 @@ body  {
   background-color: #cccccc;
 }
  h1,h2{
-  font-family: 'Times New Roman', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 h1{
@@ -79,17 +79,18 @@ a:hover {
   border-radius: 51%;
 }
 
-.btn-orange{
+.btn-blue{
   background-color: #5E83E9;
   color: white;
   padding: 15px 30px;
   border-radius: 10px;
 }
 
-.btn-orange:hover {
+.btn-blue:hover {
   background-color: #D3D3D3;
   color: white;
 }
+
 
 .list-inline{
   list-style: none;
